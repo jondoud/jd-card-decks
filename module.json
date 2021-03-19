@@ -2,7 +2,7 @@
 	"name": "jd-card-decks",
 	"title": "JD Countdown Card Decks",
 	"description": "A module of different card decks for initiative, adventure and other uses.",
-  "manifest": "https://github.com/jondoud/jd-card-decks/releases/download/v0.9.6/module.json",
+  "manifest": "https://raw.githubusercontent.com/jondoud/jd-card-decks/v0.9.7/module.json",
   "url": "https://github.com/jondoud/jd-card-decks",
 	"author": "Jon Doud",
 	"version": "1.0.0",
