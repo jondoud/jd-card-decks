@@ -1,0 +1,59 @@
+{
+	"name": "jd-card-decks",
+	"title": "JD Countdown Card Decks",
+	"description": "A module of different card decks for initiative, adventure and other uses.",
+	"author": "Jon Doud",
+	"version": "1.0.0",
+	"minimumCoreVersion": "0.7.0",
+	"compatibleCoreVersion":"0.7.10",
+	"packs": [
+				{
+  					"name": "jd-swade_countdown",
+  					"label": "JD SWADE Countdown Deck",
+  					"path": "packs/swade_countdown.db",
+  					"entity": "JournalEntry",
+  					"system": "swade",
+  					"module": "jd-card-decks"
+				},
+				{
+  					"name": "jd-galactic_countdown",
+  					"label": "JD Galactic Countdown Deck",
+  					"path": "packs/galactic_countdown.db",
+  					"entity": "JournalEntry",
+  					"system": "swade",
+  					"module": "jd-card-decks"
+				},
+				{
+  					"name": "jd-goblin_countdown",
+  					"label": "JD Goblin Horde Countdown Deck",
+  					"path": "packs/goblin_countdown.db",
+  					"entity": "JournalEntry",
+  					"system": "swade",
+  					"module": "jd-card-decks"
+				},
+				{
+  					"name": "jd-monster_countdown",
+  					"label": "JD Monster Countdown Deck",
+  					"path": "packs/monster_countdown.db",
+  					"entity": "JournalEntry",
+  					"system": "swade",
+  					"module": "jd-card-decks"
+				},
+				{
+  					"name": "jd-wildwest_countdown",
+  					"label": "JD Wild West Countdown Deck",
+  					"path": "packs/wildwest_countdown.db",
+  					"entity": "JournalEntry",
+  					"system": "swade", 
+  					"module": "jd-card-decks"
+				},
+        {
+            "name": "jd-adventure-deck",
+            "label": "JD Adventure Deck",
+            "path": "packs/adventure-deck.db",
+            "entity": "Item",
+            "system": "swade",
+            "module": "jd-card-decks"
+        }
+			]
+  }
